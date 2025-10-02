@@ -2,7 +2,7 @@
 <h3 align="center">I like Cyber Security 🕵️‍♂️</h3>
 
 </br>
-<p align="center"> <img height="25" src="https://komarev.com/ghpvc/?username=Dy1337&label=Profile%20views&color=0e75b6&style=flat" alt="Dy" /> </p>
+<p align="center"> <img height="25" src="https://komarev.com/ghpvc/?username=Nyx0013&label=Profile%20views&color=0e75b6&style=flat" alt="Nyx" /> </p>
 </br>
 
 - 📚 Science And Technology School Student 15y 
@@ -37,11 +37,11 @@
   </br>
   </br>
   <div align="center">
-  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Dy1337&show_icons=true&theme=reacta&include_all_commits=true&count_private=true"/>
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dy1337&layout=compact&langs_count=7&theme=reacta"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Nyx0013&show_icons=true&theme=reacta&include_all_commits=true&count_private=true"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyx0013&layout=compact&langs_count=7&theme=reacta"/>
 </div>
   
-  ![Snake animation](https://github.com/Dy1337/Dy1337/blob/main/snake.svg) 
+  ![Snake animation](https://github.com/Nyx0013/Nyx0013/blob/main/snake.svg) 
    
   <a href="https://www.instagram.com/cristiano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/dyfcp" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
